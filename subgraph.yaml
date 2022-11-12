@@ -1,4 +1,6 @@
 specVersion: 0.0.4
+description: Leaderboard for OnlyBurns voting
+repository: https://github.com/Muhroads/onlyburnsgraph
 schema:
   file: ./schema.graphql
 dataSources:
